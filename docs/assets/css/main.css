@@ -164,12 +164,12 @@ input, select, textarea {
 		}
 
 		a:active {
-			color: #53e3fb !important;
+    color: #53e3fb !important;
 		}
 
 	strong, b {
-		color: #ffffff;
-		font-weight: 600;
+    color: #ffffff;
+    font-weight: bolder;
 	}
 
 	em, i {
@@ -3481,7 +3481,7 @@ input, select, textarea {
 				}
 
 		#banner.major {
-			height: 75vh;
+			height: 100vh;
 			min-height: 30em;
 			max-height: 50em;
 		}
