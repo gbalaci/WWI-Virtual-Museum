@@ -3437,7 +3437,7 @@ input, select, textarea {
 		}
 
 			#banner > .inner .image {
-				display: none;
+				display: url("../../images/banner.jpg");
 			}
 
 			#banner > .inner header {
