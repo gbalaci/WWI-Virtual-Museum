@@ -169,7 +169,7 @@ input, select, textarea {
 
 	strong, b {
     color: #ffffff;
-    font-weight: bolder;
+    font-size: x-large;
 	}
 
 	em, i {
@@ -2193,7 +2193,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 100%; 
 		}
 
 			.image.fit img {
@@ -3950,3 +3950,10 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
