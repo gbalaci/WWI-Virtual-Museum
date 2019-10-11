@@ -3957,3 +3957,6 @@ input, select, textarea {
   margin-right: auto;
   width: 50%;
 }
+.smallImg {
+	width: 70px;
+}
