@@ -3959,4 +3959,5 @@ input, select, textarea {
 }
 .smallImg {
 	width: 70px;
+	padding-bottom: 15px;
 }
